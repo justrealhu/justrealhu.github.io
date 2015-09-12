@@ -1,3 +1,4 @@
 [submodule "themes"]
 	path = themes
-	url = git@github.com:spf13/hugoThemes.git
+    url = https://github.com/spf13/hugoThemes.git
+
