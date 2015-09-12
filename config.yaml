@@ -1,0 +1,11 @@
+---
+contentdir: "content"
+layoutdir: "layouts"
+publishedir: "public"
+indexes:
+    category: "categories"
+baseurl: "http://justrealhu.github.io"
+title: "Hugo Blog Template for Github Pages"
+canonifyurls: true
+...
+
